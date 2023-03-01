@@ -1,2 +1,2 @@
-# CSIS-Projects
+# CSIS- Freshmen
 CSIS projects - Freshmen -- undergrad
